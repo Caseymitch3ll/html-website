@@ -1,2 +1,2 @@
-# index.html
-My site
+index.html
+
